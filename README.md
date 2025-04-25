@@ -1,16 +1,30 @@
-# to_do_list_app
+# 📝 To-Do List App for Moms
 
-A new Flutter project.
+A clean and simple **To-Do List App** built with Flutter,  manage their everyday tasks efficiently. The app supports user authentication, local storage, image attachments, and basic task management (add, edit, delete). It's made to help in recording our tasks.
 
-## Getting Started
+---
 
-This project is a starting point for a Flutter application.
+## 👩‍👧‍👦 Purpose
 
-A few resources to get you started if this is your first Flutter project:
+track my tasks
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+---
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## ✨ Features
+
+- 🔐 **Authentication**  
+  Secure Sign up / Login using email and password.
+
+- 📦 **Local Storage**  
+  Tasks are stored locally using Hive , so they’re always available offline.
+
+- 🖼️ **Attach Images**  
+  Add a photo to any task via camera or gallery using `image_picker`.
+
+- ✍️ **Task Operations**  
+  Easily add, update, or delete any task. Tasks include a title, optional image, and status.
+
+- ✅ **Mark as Done**  
+  Toggle task completion for better tracking.
+
+---
